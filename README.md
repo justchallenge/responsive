@@ -4,13 +4,13 @@ Output of the page has to be [`like this`](https://responsiveness-01.netlify.app
 
 ## Note:
 
-Select `master` branch to see the all repos
+Select `main` branch to see the all repos
 
 **What you have to do?**
 
 > You can't touch or modify `index.html` file.
-> Write your code only inside the `style.css`
-> Good Luck!! :tada:
+> Create the `style.css`file and Write your code.
+> Good Luck!!
 
 ## Attention
 
